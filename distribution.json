@@ -743,6 +743,16 @@
           }
         },
         {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.20@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7715661,
+            "url": "https://github.com/CustomLauncherLab/ByeolYeon_file/raw/main/servers/ByeolYeon-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.20.jar",
+            "MD5": "db36439eb601a51a9578b7b2af3ab73a"
+          }
+        },
+        {
           "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.5@jar",
           "name": "YUNG's API",
           "type": "ForgeMod",
