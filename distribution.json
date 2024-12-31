@@ -1330,16 +1330,6 @@
           }
         },
         {
-          "id": "chappie.displaycase:display_case:1.0.8@jar",
-          "name": "Display Case Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 51697,
-            "url": "https://github.com/CustomLauncherLab/ByeolYeon_file/raw/main/servers/ByeolYeon-test-1.20.1/forgemods/required/Display%20Case-forge-1.20-1.0.8.jar",
-            "MD5": "68c1d78eb63e3b9204f15cf7ef53191e"
-          }
-        },
-        {
           "id": "net.aurelj:dungeons_arise:2.1.57-1.20.1@jar",
           "name": "When Dungeons Arise",
           "type": "ForgeMod",
@@ -1520,16 +1510,6 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.45@jar",
-          "name": "Moonlight Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1218513,
-            "url": "https://github.com/CustomLauncherLab/ByeolYeon_file/raw/main/servers/ByeolYeon-test-1.20.1/forgemods/required/moonlight-1.20-2.13.45-forge.jar",
-            "MD5": "19f335acc35449e71aef2cb9b71a54e0"
-          }
-        },
-        {
           "id": "com.axperty:moredelight:24.09.27-1.20-forge@jar",
           "name": "More Delight",
           "type": "ForgeMod",
@@ -1597,16 +1577,6 @@
             "size": 298156,
             "url": "https://github.com/CustomLauncherLab/ByeolYeon_file/raw/main/servers/ByeolYeon-test-1.20.1/forgemods/required/storagedelight-24.09.11-1.20-forge.jar",
             "MD5": "6190e98c4edf2f5748458edd04b3b86c"
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:supplementaries:1.20-3.1.11@jar",
-          "name": "Supplementaries",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 18052237,
-            "url": "https://github.com/CustomLauncherLab/ByeolYeon_file/raw/main/servers/ByeolYeon-test-1.20.1/forgemods/required/supplementaries-1.20-3.1.11.jar",
-            "MD5": "c17128a81b81650a1cdaeab98cf5cbcf"
           }
         },
         {
